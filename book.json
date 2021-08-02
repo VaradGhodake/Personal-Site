@@ -1,0 +1,32 @@
+{
+    "title": "Varad Ghodake's Resume and Portfolio",
+    "description": "An experienced SRE comfortable developing backend systems and middleware, collaborating with others on strategies, discussing solutions with clients, deploying and maintaining products.",
+    "author": "Varad Ghodake",
+    "language": "en",
+    "direction": "ltr",
+    "styles": {
+        "website": "styles/website.css",
+        "pdf": "styles/pdf.css"
+    },
+    "plugins": ["github", "-sharing"],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/VaradGhodake/"
+        },
+        "fontsettings": {
+            "size": 1
+        },
+        "sharing": {
+            "facebook": false,
+            "twitter": false,
+            "google": false,
+            "weibo": false,
+            "instapaper": false,
+            "vk": false,
+            "all": [
+                "facebook", "google", "twitter",
+                "weibo", "instapaper"
+            ]
+        }
+    }
+}
