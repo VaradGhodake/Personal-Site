@@ -6,9 +6,13 @@ As a professional in this domain, I have demonstrated ability of working with Di
 
 # Experience
 
+
+#### Production Engineering Intern
+Facebook (Meta) Menlo Park, California (May 2022 - August 2022)
+
 #### Software Engineer (Site Reliability Engineering)
 DE Shaw and Co. Hyderabad, India (July 2019 - May 2021)
-    
+
 
 * **Kafka adoption for incident-response systems:** As a monitoring SME, redesigned event processing engine to facilitate event-sourcing with Kafka; bumped up the maximum event coverage capacity (SLO) upto  <u> ~2 million events/day </u>.
 
@@ -28,6 +32,20 @@ DE Shaw and Co. Hyderabad, India (May 2018 - June 2018)
 * On top of reducing MTTD (Mean Time To Detect), the project also reduced MTTR (Mean Time To Repair) taken by SREs to fix users' NFS home directories, grid job submissions, active sessions and group memberships by <u>19%</u>.
 
 ---
+
+# Education
+
+#### Georgia Institute of Technology | MS Computer Science (Aug 2021 - Dec 2022)
+> GPA: 4.0/4.0
+
+Computer Networks, Database Systems Concepts and Design, System Implementation, Computer Vision 
+
+#### College of Engineering Pune (India)  |  BTech Computer Engineering (2015-2019)
+> CGPA: 9.09/10 (Honors)
+
+Distributed Systems, Computer Networks, Operating Systems, Data Science, System Administration
+
+--- 
 
 # Skillset
 
