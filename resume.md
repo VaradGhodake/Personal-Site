@@ -1,6 +1,6 @@
 # Summary
 
-As a professional in this domain, I have demonstrated ability of working with Distributed Systems, Cloud Computing, and Backend-middleware development. Going forward, I intend to continue working with critical Linux infrastructure, software development, upgrade and maintenance initiatives.
+As a professional in this domain, I have demonstrated ability of working with Distributed Systems, Cloud Computing, and Backend-middleware development. Going forward, I intend to continue working with critical Linux infrastructure, software development, release engineering.
 
 ---
 
