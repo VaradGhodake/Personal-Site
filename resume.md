@@ -1,6 +1,6 @@
 # Summary
 
-As a professional in this domain, I have demonstrated ability of working with Distributed Systems, Cloud Computing, and Backend-middleware development. Going forward, I intend to continue working with critical Linux infrastructure, software development, release engineering.
+As a professional in this domain, I have demonstrated ability of working with Distributed Systems, Cloud Computing, and Backend-middleware development. Going forward, I intend to continue working in these domains.
 
 ---
 
@@ -8,7 +8,9 @@ As a professional in this domain, I have demonstrated ability of working with Di
 
 
 #### Production Engineering Intern
-Facebook (Meta) Menlo Park, California (May 2022 - August 2022)
+Facebook (Meta) Bay Area, California (May 2022 - August 2022)
+
+* **Ads Machine Learning PE:** Internship with the Feature Platform Engineering team. </u>.
 
 #### Software Engineer (Site Reliability Engineering)
 DE Shaw and Co. Hyderabad, India (July 2019 - May 2021)
