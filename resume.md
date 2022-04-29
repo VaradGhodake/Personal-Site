@@ -1,6 +1,6 @@
 # Summary
 
-As a professional in this domain, I have demonstrated ability of working with Distributed Systems, Cloud Computing, and Backend-middleware development. Going forward, I intend to continue working in these domains.
+As a professional in this domain, I have demonstrated ability of working with Distributed Systems, Cloud Computing, and Backend-middleware development. Going forward, I intend to continue working on exciting projects in this domain.
 
 ---
 
